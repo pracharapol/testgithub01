@@ -6,7 +6,7 @@ int minus() {
 	printf("%d\n", 20 - 12);
 }
 int main() {
-	printf("\nhello world");
+	printf("hello world\n");
 	plus();
 	minus();
 	return 0;
